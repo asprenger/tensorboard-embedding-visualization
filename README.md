@@ -21,5 +21,5 @@ Open a Browser at http://127.0.0.1:6006 and go to the Projector tab:
 
 ![tensorboard_projector](images/tensorboard_projector.png "Logo Title Text 1")
 
-<img src="images/tensorboard_projector.png" style="width: 800px;"/>
+<img src="images/tensorboard_projector.png" style="width: 600px;"/>
 
